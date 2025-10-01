@@ -54,7 +54,7 @@
 
 ### 📜 &nbsp;Mis artículos
 
-| [<img src="https://cvidal.onrender.com/assets/img/articulo1.jpg" width="60" />](https://revistas.upt.edu.pe/ojs/index.php/ingenieria/article/view/794) | [<img src="https://cvidal.onrender.com/assets/img/articulo3.jpg" width="60" />](https://34.223.92.154/index.php/IRR/article/view/1171) | [<img src="https://cvidal.onrender.com/assets/img/articulo2.jpg" width="60" />](https://revistas.unh.edu.pe/index.php/ricci/article/view/383) | [<img src="https://cvidal.onrender.com/assets/img/articulo4.png" width="60" />](http://revistas.unu.edu.pe/index.php/iu/article/view/120) |
+| [<img src="https://cvidal.onrender.com/assets/img/articulo1.jpg" width="60" />](https://revistas.upt.edu.pe/ojs/index.php/ingenieria/article/view/794) | [<img src="https://cvidal.onrender.com/assets/img/articulo3.jpg" width="60" />](https://34.223.92.154/index.php/IRR/article/view/1171) | [<img src="https://revistas.unh.edu.pe/public/journals/5/cover_issue_42_es_ES.jpg" width="60" />](https://revistas.unh.edu.pe/index.php/ricci/article/view/383) | [<img src="https://cvidal.onrender.com/assets/img/articulo4.png" width="60" />](http://revistas.unu.edu.pe/index.php/iu/article/view/120) |
 |---|---|---|---|
 | Rev. UPT | Rev. IRR  | Rev. UNH | Rev. UNU |
 
