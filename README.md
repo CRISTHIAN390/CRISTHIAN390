@@ -64,7 +64,7 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/cristhian-aldair-villacorta-vidal-218a68322/"><img src="https://img.shields.io/badge/-Cristhian%20Villacorta%20Vidal-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:ing.villacorta.dev@gmail.com"><img src="https://img.shields.io/badge/-IngCristhian-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://mail.google.com/mail/u/0/?fs=1&to=ing.villacorta.dev@gmail.com&su=Consulta+info&body=Hola,+quisiera+contactarme+contigo&tf=cm"><img src="https://img.shields.io/badge/-IngCristhian-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.instagram.com/cristhianvav/"><img src="https://img.shields.io/badge/-Cristhianvav-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://www.facebook.com/cristian.villacortavidal"><img src="https://img.shields.io/badge/-CristhianVi-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 </p>
